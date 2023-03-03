@@ -3,5 +3,6 @@
     <string-array name="cargos">
         <item>Obrero</item>
         <item>Empleado</item>
+        <item>Ejecutivo</item>
     </string-array>
 </resources>

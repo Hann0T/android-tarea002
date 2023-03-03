@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actividad">
+        <item>Pintado</item>
+        <item>Laqueado</item>
+        <item>Barnizado</item>
+    </string-array>
+</resources>
